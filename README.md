@@ -88,8 +88,6 @@
 
 ---
 
-### 🤝 Connect with Me
-
 
 
 <p align="center"><i>"The path to AI starts with understanding data — one line of Python at a time."</i></p>
