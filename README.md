@@ -90,10 +90,6 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="mailto:amanverma630699@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 <p align="center"><i>"The path to AI starts with understanding data — one line of Python at a time."</i></p>
