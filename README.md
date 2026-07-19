@@ -1,108 +1,179 @@
-<h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">B.Tech CSE (AI) Student | Data Science Enthusiast | Aspiring ML Engineer</h3>
+# Hi 👋, I'm Aman Verma
+
+<h3 align="center">🚀 B.Tech CSE (AI) Student | Python Developer | Data Science Enthusiast | Future ML Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/amanverma630699-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+BBDU;Mastering+Python%2C+NumPy+%26+Pandas;Building+the+Foundations+of+AI;Always+Curious+%E2%80%A2+Always+Learning" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+(AI)+Student+at+BBDU;Learning+Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib;Exploring+Data+Science+and+Machine+Learning;Building+Projects+Every+Week;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="mailto:amanverma630699@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/amanverma630699-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amanverma630699-cmd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **B.Tech Computer Science student specializing in Artificial Intelligence** at BBDU. My core focus lies in unlocking the power of data through code, bridging the gap between foundational programming and intelligent systems.
+🎓 **B.Tech Computer Science (Artificial Intelligence)** student at **Babu Banarasi Das University (BBDU), Lucknow**
 
-- 🎓 **Education:** Pursuing B.Tech in CSE (AI) at **BBDU**
-- 🐍 **Current Focus:** Deep diving into **Python** and data manipulation ecosystems (**NumPy**, **Pandas**, **Matplotlib**).
-- 🤖 **Goal:** Transitioning from data exploration to constructing end-to-end **Machine Learning** algorithms.
-- 🌱 **Mindset:** Building robust, cleanly-coded projects to solidify my foundational software engineering skills.
-- 💬 **Let's Talk:** Reach out to discuss core Python, data structures, analysis workflows, or neat coding tricks.
+💡 Passionate about:
 
----
+* Python Programming
+* Data Analysis
+* Machine Learning
+* Artificial Intelligence
+* Problem Solving
 
-## 🛠️ Tech Stack & Tools
+🌱 Currently Learning:
 
-### 🐍 Languages & Data Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
+* Advanced Python
+* NumPy
+* Pandas
+* Matplotlib
+* Statistics for Data Science
+* Machine Learning Fundamentals
 
-### ⚙️ DevOps & Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+🎯 Goal:
 
----
+> Become a Machine Learning Engineer and contribute to impactful AI solutions.
 
-## 📌 Featured Repositories
+📫 Contact:
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amanverma630699-cmd/library_of_python">
-        <h3>📊 library_of_python</h3>
-      </a>
-      <p>My core sandbox for data exploration. Focused on heavy data manipulation with <b>NumPy</b>, data wrangling via <b>Pandas</b>, and creating insightful visual charts using <b>Matplotlib</b>.</p>
-      <code>Python</code> <code>Data Analysis</code> <code>Visualization</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amanverma630699-cmd/python">
-        <h3>🐍 python</h3>
-      </a>
-      <p>A dedicated repository storing fundamental Python tasks, object-oriented concepts, scripting experiments, and logical algorithm implementations.</p>
-      <code>Python Core</code> <code>Scripts</code> <code>OOP</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <a href="https://github.com/amanverma630699-cmd/game_project">
-        <h3>🎮 game_project</h3>
-      </a>
-      <p>An interactive project exploring game logic loops, event handling, and algorithmic decision trees to build logic fundamentals outside data analysis.</p>
-      <code>Game Logic</code> <code>Algorithms</code> <code>Interactive</code>
-    </td>
-  </tr>
-</table>
+* Gmail: **[amanverma630699@gmail.com](mailto:amanverma630699@gmail.com)**
+* GitHub: **github.com/amanverma630699-cmd**
 
 ---
 
-## 📊 Git Insights & Analytics
+## 🛠️ Technology Stack
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amanverma630699-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma630699-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma630699-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Data Science Libraries
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma630699-cmd&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 </p>
 
 ---
 
-<p align="center">
-  <i>"The path to AI starts with understanding data — one line of Python at a time."</i>
-</p>
+## 📚 Learning Journey
+
+```text
+Python Fundamentals        ██████████ 100%
+Object-Oriented Python     ████████░░ 80%
+NumPy                      ████████░░ 80%
+Pandas                     ███████░░░ 70%
+Matplotlib                 ██████░░░░ 60%
+Data Science               ██████░░░░ 60%
+Machine Learning           ███░░░░░░░ 30%
+Deep Learning              █░░░░░░░░░ 10%
+```
+
+---
+
+## 🔥 Featured Projects
+
+### 🐍 Python Practice Repository
+
+Repository dedicated to Python fundamentals, problem-solving, and mini-projects.
+
+🔗 https://github.com/amanverma630699-cmd/python
+
+---
+
+### 📊 Library of Python
+
+Data analysis projects using:
+
+* NumPy
+* Pandas
+* Matplotlib
+
+Projects include:
+
+* Movie Rating Dashboard
+* Fitness & Health Tracker Analyzer
+* Data Analysis Projects
+
+🔗 https://github.com/amanverma630699-cmd/library_of_python
+
+---
+
+### 🎮 Game Development Project
+
+Learning game development fundamentals and programming concepts.
+
+🔗 https://github.com/amanverma630699-cmd/game_project
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanverma630699-cmd&color=2F80ED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://github-readme-stats.vercel.app/api?username=amanverma630699-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma630699-cmd&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+---
+
+## ⚡ GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma630699-cmd&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amanverma630699-cmd&theme=tokyonight&no-frame=true&row=1&column=7">
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma630699-cmd&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master Python
+* ✅ Complete NumPy
+* ✅ Complete Pandas
+* 🔄 Learn Machine Learning
+* 🔄 Build 15+ Projects
+* 🔄 Participate in Open Source
+* 🔄 Create AI-Based Applications
+
+---
+
+## 💡 Fun Fact
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
+
+---
+
+<h3 align="center">
+🚀 Turning curiosity into code, and code into intelligence.
+</h3>
+
+<p align="center">
+<i>"The future belongs to those who learn, build, and never stop improving."</i>
 </p>
